@@ -29,7 +29,7 @@ Then extract the Python script
 Make the script executable. Then execute it
 
 ```
-chmod 744 <pyhton script>
+chmod 744 <python script>
 
 ./<python script>
 ```
