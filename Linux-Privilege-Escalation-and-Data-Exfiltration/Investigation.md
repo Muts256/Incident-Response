@@ -1,6 +1,6 @@
 ## Investigation
 
-Following the NIST 800-61 framework, the investigation started with the incident created after it was detected by the scheduled rule that was part of the preparation phase 
+Following the NIST SP 800-61 framework, the investigation began when a scheduled detection rule, implemented during the preparation phase, identified the incident. 
 
 ## Preparation
 ### How Scheduled Rules Fit into the Preparation Phase
