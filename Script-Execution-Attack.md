@@ -261,7 +261,7 @@ Analysis: Investigating the "who, what, when, where, and how" of the incident to
 
   - Attribution & Intent: If possible, identifying the threat actor and their goals.
 
-  - Prioritization & Documentation: Assigning a severity level based on impact and urgency, and formally logging all findings to create the initial incident record.
+  - Prioritisation & Documentation: Assigning a severity level based on impact and urgency, and formally logging all findings to create the initial incident record.
 
 With the successful launch of the calculator app, check if any of the rules were triggered
 
@@ -319,7 +319,7 @@ This query is useful for detecting:
 
 ![image alt](https://github.com/Muts256/SNC-Public/blob/c7aedabd3a0bcbeb395401acd2f0bb9b8e11c80b/Images/Atomic-Red-Team/At12.png)
 
-There was connection according to the logs.
+According to the logs, there was no connection.
 
 ---
 
@@ -338,7 +338,7 @@ There was connection according to the logs.
 
 **Goal:** Prevent further data loss or system compromise while investigation continues.
 
-In this case the device was isolated 
+In this case, the device was isolated 
 
 #### 2. Eradication
 
@@ -353,7 +353,7 @@ In this case the device was isolated
 
 **Goal:** Ensure that the threat no longer exists in the environment.
 
-Antivirus scan was started
+An antivirus scan was started
 
 #### 3. Recovery
 
