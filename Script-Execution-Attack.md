@@ -241,7 +241,7 @@ Create Detection rules in MDE
 
 The Detection & Analysis phase is the critical "trigger point" of the NIST Incident Response lifecycle. It focuses on the shift from normal operations to active incident management, where a potential security event is identified, validated, and assessed.
 
-The primary goal of this phase is to accurately determine whether a security event has occurred and, if so, to analyze its scope, impact, and urgency to enable an effective response.
+The primary goal of this phase is to determine whether a security event has occurred accurately and, if so, to analyse its scope, impact, and urgency to enable an effective response.
 
 ##### Key Activities
 This phase involves a continuous, often rapid, series of steps:
