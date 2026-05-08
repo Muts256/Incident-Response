@@ -42,7 +42,7 @@ Where applicable, investigations are mapped to **MITRE ATT&CK** techniques to pr
 
 ### Detection Coverage (MITRE ATT&CK Aligned)
 
-As part of the **Detection and Analysis** phase of the  **NIST SP 800-61 Incident Response Lifecycle**, this is an example of how detections and investigations can be mapped to the **MITRE ATT&CK framework**.
+As part of the **Detection and Analysis** phase of the  **NIST SP 800-61 Incident Response Lifecycle**, these are examples of how detections and investigations can be mapped to the **MITRE ATT&CK framework**.
 
 MITRE ATT&CK helps to:
 - Understand adversary behaviour
