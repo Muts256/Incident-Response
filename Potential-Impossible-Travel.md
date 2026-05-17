@@ -49,7 +49,7 @@ Impossible Travel is effective because:
 
 | Detection Name      | MITRE Tactic        | MITRE Technique | Description |
 |--------------------|---------------------|-----------------|-------------|
-| Impossible Travel  | Credential Access / Initial Access | T1078 – Valid Accounts | Detection of logins from geographically distant locations within an impossible timeframe, indicating potential credential compromise |
+| Impossible Travel  | Credential Access / Initial Access | T1078 - Valid Accounts | Detection of logins from geographically distant locations within an impossible timeframe, indicating potential credential compromise |
 
 [Back to the Top](#table-of-contents)
 
