@@ -63,9 +63,9 @@ Results:
 ![image alt](https://github.com/Muts256/SNC-Public/blob/aa6eef18578980df6f00d33a7ecb249daa32afd0/Images/Linux-Privilege-Escalation/Pr13.png)
 
 MITRE ATT&CK mapping
-  - T1098 – Account Manipulation
-  - T1078 – Valid Accounts
-  - T1059.004 – Command and Scripting Interpreter: Unix Shell
+  - T1098 - Account Manipulation
+  - T1078 - Valid Accounts
+  - T1059.004 - Command and Scripting Interpreter: Unix Shell
 
 #### Query 2
 
@@ -91,8 +91,8 @@ Result:
 ![image alt](https://github.com/Muts256/SNC-Public/blob/aa6eef18578980df6f00d33a7ecb249daa32afd0/Images/Linux-Privilege-Escalation/Pr12.png)
 
 MITRE ATT&CK mappping:
-  - T1136 – Create Account
-  - T1059 – Command and Scripting Interpreter
+  - T1136 - Create Account
+  - T1059 - Command and Scripting Interpreter
 
 
 #### Query 3
@@ -119,9 +119,9 @@ Result:
 ![image alt](https://github.com/Muts256/SNC-Public/blob/aa6eef18578980df6f00d33a7ecb249daa32afd0/Images/Linux-Privilege-Escalation/Pr15.png)
 
 MITRE ATT&CK mapping
-  - T1059.004 – Command and Scripting Interpreter: Unix Shell
-  - T1105 – Ingress Tool Transfer (if scripts are staged for later execution)
-  - T1547 – Boot or Logon Autostart Execution (if used for persistence)
+  - T1059.004 - Command and Scripting Interpreter: Unix Shell
+  - T1105 - Ingress Tool Transfer (if scripts are staged for later execution)
+  - T1547 - Boot or Logon Autostart Execution (if used for persistence)
 
 #### Query 4
 
@@ -144,9 +144,9 @@ Result:
 ![image alt](https://github.com/Muts256/SNC-Public/blob/aa6eef18578980df6f00d33a7ecb249daa32afd0/Images/Linux-Privilege-Escalation/Pr14.png)
 
 MITRE ATT&CK mapping:
-  - T1041 – Exfiltration Over C2 Channel
-  - T1567 – Exfiltration Over Web Service
-  - T1105 – Ingress Tool Transfer (if uploading tools instead of data)
+  - T1041 - Exfiltration Over C2 Channel
+  - T1567 - Exfiltration Over Web Service
+  - T1105 - Ingress Tool Transfer (if uploading tools instead of data)
 
 #### Query 5
 
@@ -170,9 +170,9 @@ Result:
 ![image alt](https://github.com/Muts256/SNC-Public/blob/94094b1615b895bf31c4717583f2e489526564a0/Images/Linux-Privilege-Escalation/Pr27.png)
 
 MITRE ATT&CK mapping
-  - T1041 – Exfiltration Over C2 Channel
-  - T1567 – Exfiltration Over Web Service
-  - T1105 – Ingress Tool Transfer
+  - T1041 - Exfiltration Over C2 Channel
+  - T1567 - Exfiltration Over Web Service
+  - T1105 - Ingress Tool Transfer
 
 #### Query 6
 
@@ -197,8 +197,8 @@ Result:
 ![image alt](https://github.com/Muts256/SNC-Public/blob/aa6eef18578980df6f00d33a7ecb249daa32afd0/Images/Linux-Privilege-Escalation/Pr10.png)
 
 MITRE ATT&CK mapping:
-  - T1078 – Valid Accounts
-  - T1021 – Remote Services (if remote logons are observed)
+  - T1078 - Valid Accounts
+  - T1021 - Remote Services (if remote logons are observed)
 
 #### Query 7
 Used this query to identify recent failed logon attempts on a specific device, which can indicate brute-force activity, credential misuse, or reconnaissance.
@@ -222,9 +222,9 @@ Result:
 ![image alt](https://github.com/Muts256/SNC-Public/blob/aa6eef18578980df6f00d33a7ecb249daa32afd0/Images/Linux-Privilege-Escalation/Pr11.png)
 
 MITRE ATT&CK mapping
-  - T1110 – Brute Force
-  - T1078 – Valid Accounts (attempted misuse)
-  - T1021 – Remote Services (if remote logons are involved)
+  - T1110 - Brute Force
+  - T1078 - Valid Accounts (attempted misuse)
+  - T1021 - Remote Services (if remote logons are involved)
 
 ---
 
