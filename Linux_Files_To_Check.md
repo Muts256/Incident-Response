@@ -13,3 +13,9 @@ Check the history of commands executed, especially the ones you did not run
   - cd ~
   - cat  .bash_history
   - ls -la .bash_history
+
+#### 4. Check audit.log
+The CIS benchmark recommends audit.logs be active
+   - ausearch -m EXECVE \
+     --start recent  * Searches for commands that were executed *
+   - aureport --failed ** 
