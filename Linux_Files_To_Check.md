@@ -32,3 +32,8 @@ The CIS benchmark recommends audit.logs be active
 #### 6. SSH Key Backdoor
 
 find / name \ authorized_keys 2 >/dev/null
+
+#### Check for deleted process
+
+ls -la /proc/*/exe \ 2>/dev/null | grep deleted
+
