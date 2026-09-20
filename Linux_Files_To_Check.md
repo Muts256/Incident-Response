@@ -10,5 +10,6 @@ Execute lastb command at the prompt. This will display the failed logins with a 
 
 #### 3. History
 Check the history of commands executed, especially the ones you did not run
+  - cd ~
   - cat  .bash_history
   - ls -la .bash_history
