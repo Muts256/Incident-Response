@@ -24,3 +24,11 @@ The CIS benchmark recommends audit.logs be active
    - ausearch -m EXECVE \
      --start recent 
  
+#### 5. Cron Persistence
+  - crontab -l *list the scheduled tasks*
+  - ls -la /etc/cron.d
+  - cat /etc/crontab
+
+#### 6. SSH Key Backdoor
+
+find / name \ authorized_keys 2 >/dev/null
