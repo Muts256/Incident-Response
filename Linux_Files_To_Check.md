@@ -17,7 +17,7 @@ Check the history of commands executed, especially the ones you did not run
 #### 4. Check audit.log
 The CIS benchmark recommends audit.logs be active
 
-*Display failed audit events
+*Display failed audit events*
    - aureport --failed  
 
 *Search for commands that were executed*
