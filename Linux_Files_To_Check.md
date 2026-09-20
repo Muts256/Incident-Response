@@ -33,7 +33,9 @@ The CIS benchmark recommends audit.logs be active
 
 find / name \ authorized_keys 2 >/dev/null
 
-#### Check for deleted process
+#### 7. Check for deleted process
+Shows any process that was deleted after execution
 
 ls -la /proc/*/exe \ 2>/dev/null | grep deleted
+
 
